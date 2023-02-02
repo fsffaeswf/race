@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Лиан\sfml_cars\main.cpp(12,46): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\Лиан\sfml_cars\main.cpp(12,32): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\Лиан\sfml_cars\main.cpp(14,27): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  sfml_cars.vcxproj -> D:\Лиан\sfml_cars\x64\Debug\sfml_cars.exe
